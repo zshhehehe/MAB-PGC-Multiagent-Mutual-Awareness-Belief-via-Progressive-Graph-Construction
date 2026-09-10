@@ -1,7 +1,7 @@
 # MAB-PGC-Multiagent-Mutual-Awareness-Belief-via-Progressive-Graph-Construction
 
 
-For the sake of layout, there is a typo (Eq.(22)) in the formula in the photocopy version. We have provided the documents submitted during our proofreading stage (Final version submit to tnnls：MAB-PGC Multi-Agent Mutual Awareness Belief via Progressive ) and the final review stage (Proof submission：MAB-PGC Multi-Agent Mutual Awareness Belief via Progressive).
+For the sake of layout, there is a typo (**Eq.(22)**) in the formula in the photocopy version. We have provided the documents submitted during our proofreading stage (*Final version submit to tnnls：MAB-PGC Multi-Agent Mutual Awareness Belief via Progressive.pdf* ) and the final review stage (*Proof submission：MAB-PGC Multi-Agent Mutual Awareness Belief via Progressive.pdf*).
 
 
 
